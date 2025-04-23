@@ -24,7 +24,7 @@ consumer.subscribe([topic])
 db_config = {
     'dbname': 'defaultdb',
     'user': 'avnadmin',
-    'password': 'Write yours here',
+    'password': 'Write_yours_here',
     'host': 'pg-4c0d3de-mugendijames341-7875.f.aivencloud.com',
     'port': 19572
 }
