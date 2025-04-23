@@ -38,7 +38,7 @@ This project demonstrates the development of a real-time data pipeline designed 
 
 bash
 
-`git clone https://github.com/yourusername/stock-market-pipeline.git`
+`https://github.com/Ravi-Teja-Ravella/stock-market-realtime-pipeline`
 
 2. Install the required Python packages:
 
